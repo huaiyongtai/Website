@@ -6,7 +6,6 @@ use DevSxe\Lib\Core;
 
 include_once DEVSXE_ROOT_DIR . '/Lib/Core.class.php';
 include_once DEVSXE_ROOT_DIR . '/Lib/Functions.class.php';
-include_once DEVSXE_ROOT_DIR . '/Lib/OldCache.class.php';
 
 class Main
 {
